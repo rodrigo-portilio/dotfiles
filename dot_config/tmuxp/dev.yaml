@@ -1,0 +1,12 @@
+session_name: dev
+windows:
+- focus: 'true'
+  layout: 6774,188x50,0,0{100x50,0,0,1,87x50,101,0[87x16,101,0,2,87x33,101,17,3]}
+  options: {}
+  panes:
+  - lvim
+  - focus: 'true'
+    shell_command: zsh
+  - btop
+  start_directory: /home/rodrigo/Developer/eshop-dotnet-cloudnative
+  window_name: dev window
