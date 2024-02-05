@@ -1,0 +1,8 @@
+require("rodrigoportilio.plugins_config.ui_config")
+require("rodrigoportilio.plugins_config.nvimtree_config")
+require("rodrigoportilio.plugins_config.dap_config")
+require("rodrigoportilio.plugins_config.mason_config")
+--require("rodrigoportilio.plugins_config.completions")
+require("rodrigoportilio.plugins_config.lsp_config")
+require("rodrigoportilio.plugins_config.fidget")
+require("rodrigoportilio.plugins_config.treesitter")
