@@ -1,0 +1,6 @@
+ffmpeg
+imagemagick
+wget
+telnet
+tldr
+nvim
