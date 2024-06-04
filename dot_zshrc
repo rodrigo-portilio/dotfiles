@@ -21,6 +21,9 @@ export PATH=~/.cargo/bin:$PATH
 autoload -Uz compinit
 compinit
 
+
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+
 # zsh parameter completion for the dotnet CLI
 
 _dotnet_zsh_complete()
